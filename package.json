@@ -1,0 +1,25 @@
+{
+  "name": "scrilla",
+  "version": "1.0.0",
+  "description": "A basic token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zagorski32611/scrilla.git"
+  },
+  "author": "Joe Zagorski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zagorski32611/scrilla/issues"
+  },
+  "homepage": "https://github.com/zagorski32611/scrilla#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
